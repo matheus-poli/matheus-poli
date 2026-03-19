@@ -9,4 +9,3 @@ Hello! I'm a Software Engineer with more than seven years of experience :compute
 <br/> 💬  &nbsp; About me: I love technologies, movies, animes and I'm passionate about games and programming.
 <br/> :email: &nbsp; How to reach me: <br />
 <a href="https://www.linkedin.com/in/matheus-poli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:matheuspolicamilo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMAIL-c14438?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
