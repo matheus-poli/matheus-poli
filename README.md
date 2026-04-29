@@ -5,7 +5,7 @@ Hello! I'm a Software Engineer with more than seven years of experience :compute
 
 :rocket:  &nbsp; I'm working at **Nuuvem** https://www.nuuvem.com ☁️
 <br/> 💎  &nbsp; I am currently specializing in Ruby on Rails with its new versions and features like Hotwire 🛤⚡
-<br/> 💻  &nbsp; I've worked with: Ruby & Rails, PHP & Laravel, React, Vue.js, Angular and NextJS.
+<br/> 💻  &nbsp; I've worked with: Ruby & Rails, PHP & Laravel, NodeJS, React, Vue.js, Angular, NextJS, htmx, hyperscript.
 <br/> 💬  &nbsp; About me: I love technologies, movies, animes and I'm passionate about games and programming.
 <br/> :email: &nbsp; How to reach me: <br />
 <a href="https://matpoli.dev" target="_blank"><img src="https://img.shields.io/badge/-matpoli.dev-1D4ED8?style=for-the-badge&logo=astro&logoColor=white" target="_blank"></a>
