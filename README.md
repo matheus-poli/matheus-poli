@@ -3,7 +3,6 @@
 Hello! I'm a Software Engineer with more than seven years of experience :computer:
 <br/> I also graduated as a technologist in Internet Systems from UNIVALI in Itajaí, Santa Catarina.
 
-:rocket:  &nbsp; I'm working at **Nuuvem** https://www.nuuvem.com ☁️
 <br/> 💎  &nbsp; I am currently specializing in Ruby on Rails with its new versions and features like Hotwire 🛤⚡
 <br/> 💻  &nbsp; I've worked with: Ruby & Rails, PHP & Laravel, NodeJS, React, Vue.js, Angular, NextJS, htmx, hyperscript.
 <br/> 💬  &nbsp; About me: I love technologies, movies, animes and I'm passionate about games and programming.
